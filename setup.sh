@@ -1,3 +1,4 @@
 #!/bin/sh
 
-echo "ok"
+
+sudo apt-get install zsh nmap mongodb whois yum vim netcat 
